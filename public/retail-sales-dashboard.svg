@@ -1,0 +1,60 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="28" fill="#F8F6F2"/>
+  <rect x="40" y="40" width="1520" height="92" rx="22" fill="#F1EEE7" stroke="#E0DBD1"/>
+  <text x="800" y="81" text-anchor="middle" fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">RETAIL SALES ANALYTICS</text>
+  <text x="800" y="114" text-anchor="middle" fill="#4B4B4B" font-family="Arial, Helvetica, sans-serif" font-size="22">Revenue • Categories • Customer Trends</text>
+
+  <rect x="40" y="160" width="500" height="200" rx="18" fill="#FFFFFF" stroke="#E4DFD6"/>
+  <rect x="40" y="380" width="500" height="200" rx="18" fill="#FFFFFF" stroke="#E4DFD6"/>
+  <rect x="560" y="160" width="1000" height="420" rx="18" fill="#FFFFFF" stroke="#E4DFD6"/>
+  <rect x="40" y="600" width="760" height="240" rx="18" fill="#FFFFFF" stroke="#E4DFD6"/>
+  <rect x="820" y="600" width="740" height="240" rx="18" fill="#FFFFFF" stroke="#E4DFD6"/>
+
+  <text x="66" y="198" fill="#666" font-family="Arial" font-size="18">Total Order</text>
+  <text x="66" y="236" fill="#222" font-family="Arial" font-size="42" font-weight="700">4.922K</text>
+  <text x="260" y="198" fill="#666" font-family="Arial" font-size="18">Total Revenue</text>
+  <text x="260" y="236" fill="#222" font-family="Arial" font-size="42" font-weight="700">2.26M</text>
+  <text x="66" y="418" fill="#666" font-family="Arial" font-size="18">Average Sales Record</text>
+  <text x="66" y="456" fill="#222" font-family="Arial" font-size="42" font-weight="700">230.77</text>
+
+  <text x="582" y="198" fill="#222" font-family="Arial" font-size="24" font-weight="700">Sum of Sales</text>
+  <text x="582" y="224" fill="#666" font-family="Arial" font-size="14">by State</text>
+  <circle cx="1130" cy="320" r="110" stroke="#D0C7BA" stroke-width="22" fill="none" stroke-dasharray="42 12 34 10 28 12 18 8 40 14 22 10"/>
+  <circle cx="1130" cy="320" r="70" fill="#F8F6F2"/>
+  <text x="1130" y="328" text-anchor="middle" fill="#222" font-family="Arial" font-size="42" font-weight="700">2.26M</text>
+  <text x="1300" y="240" fill="#4E747E" font-family="Arial" font-size="18">California</text>
+  <text x="1300" y="268" fill="#A36D3C" font-family="Arial" font-size="18">New York</text>
+  <text x="1300" y="296" fill="#D2A94B" font-family="Arial" font-size="18">Texas</text>
+  <text x="1300" y="324" fill="#C76E42" font-family="Arial" font-size="18">Washington</text>
+  <text x="1300" y="352" fill="#5F9D87" font-family="Arial" font-size="18">Pennsylvania</text>
+  <text x="1300" y="380" fill="#4E747E" font-family="Arial" font-size="18">Florida</text>
+  <text x="1300" y="408" fill="#A36D3C" font-family="Arial" font-size="18">Illinois</text>
+  <text x="1300" y="436" fill="#D2A94B" font-family="Arial" font-size="18">Michigan</text>
+  <text x="1300" y="464" fill="#C76E42" font-family="Arial" font-size="18">Ohio</text>
+
+  <text x="66" y="640" fill="#222" font-family="Arial" font-size="24" font-weight="700">Average Sales Record</text>
+  <text x="66" y="668" fill="#666" font-family="Arial" font-size="14">by Category and Country</text>
+  <text x="88" y="742" fill="#666" font-family="Arial" font-size="18">Technology</text>
+  <text x="88" y="802" fill="#666" font-family="Arial" font-size="18">Furniture</text>
+  <text x="88" y="862" fill="#666" font-family="Arial" font-size="18">Office Supplies</text>
+  <rect x="138" y="700" width="590" height="54" fill="#4E747E"/>
+  <rect x="138" y="760" width="440" height="54" fill="#4E747E"/>
+  <rect x="138" y="820" width="150" height="54" fill="#4E747E"/>
+
+  <text x="846" y="640" fill="#222" font-family="Arial" font-size="24" font-weight="700">Total Sales</text>
+  <text x="846" y="668" fill="#666" font-family="Arial" font-size="14">by Region</text>
+  <line x1="920" y1="768" x2="1480" y2="768" stroke="#D9D4CB" stroke-width="2"/>
+  <line x1="920" y1="772" x2="960" y2="720" stroke="#4E747E" stroke-width="4"/>
+  <line x1="960" y1="720" x2="1040" y2="736" stroke="#4E747E" stroke-width="4"/>
+  <line x1="1040" y1="736" x2="1120" y2="748" stroke="#4E747E" stroke-width="4"/>
+  <line x1="1120" y1="748" x2="1200" y2="790" stroke="#4E747E" stroke-width="4"/>
+  <line x1="1200" y1="790" x2="1280" y2="820" stroke="#4E747E" stroke-width="4"/>
+  <line x1="1280" y1="820" x2="1360" y2="846" stroke="#4E747E" stroke-width="4"/>
+  <line x1="1360" y1="846" x2="1440" y2="868" stroke="#4E747E" stroke-width="4"/>
+  <text x="952" y="786" fill="#666" font-family="Arial" font-size="14">West</text>
+  <text x="1116" y="840" fill="#666" font-family="Arial" font-size="14">East</text>
+  <text x="1312" y="868" fill="#666" font-family="Arial" font-size="14">Central</text>
+  <text x="1450" y="884" fill="#666" font-family="Arial" font-size="14">South</text>
+
+  <text x="830" y="98" fill="none"/>
+</svg>
